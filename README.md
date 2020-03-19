@@ -18,6 +18,9 @@ The data for the analysis have been  extracted from [eldiario.es](https://www.el
 
 ## Folders
 
+* daily-plots: includes daily plots describing the temporal evolution of the count per region. Also, includes daily plots proposing a likly latent sequence of counts per region. 
+
+*
 
 ## Updates
 This document is daily updated. Last update 17-03-2020
