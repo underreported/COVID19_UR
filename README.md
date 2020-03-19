@@ -148,3 +148,9 @@ Table 3 shows the percentages of means counts that are not covered by the offici
 (TO DO: TABLES AND FIGURES 17-03)
 
 It is instructive to see what the difference would be on epidemic spread by fitting an epidemic model to the reconstructed series of counts and the observed counts recorded by public agencies. We fit the classic SIR (Susceptible-Infectious-Recovered) model. Table 4 shows the basic reproduction rate by using the reconstructed series (RE) and the observed (RR). 
+
+## Updates
+This document is daily updated. Last update 17-03-2020
+
+## Authors
+Amanda Fernández Fontelo, Alejandra Cabaña, Argimiro Arratia, David Moriña and Pere Puig
