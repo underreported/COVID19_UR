@@ -14,6 +14,8 @@ The data for the analysis have been  extracted from [eldiario.es](https://www.el
 
 <p align="justify"> Notice that this analysis con be easily reproduced for other countries. </p>
 
+[Figures 1 (a)](https://github.com/underreported/COVID19_UR/blob/master/daily-plots/17-03-2020/Figure1a.pdf) and [(b)](https://github.com/underreported/COVID19_UR/blob/master/daily-plots/17-03-2020/Figure1b.pdf) and Table 1 provide a description and evolution of daily counts by region. 
+
 <table class="table table-striped" style="width: auto !important; ">
 <caption>Table 1: Summary of the daily COVID-19 cases from 27-02-20 to 17-03-2020 by region in Spain</caption>
  <thead>
@@ -146,3 +148,9 @@ Table 3 shows the percentages of means counts that are not covered by the offici
 (TO DO: TABLES AND FIGURES 17-03)
 
 It is instructive to see what the difference would be on epidemic spread by fitting an epidemic model to the reconstructed series of counts and the observed counts recorded by public agencies. We fit the classic SIR (Susceptible-Infectious-Recovered) model. Table 4 shows the basic reproduction rate by using the reconstructed series (RE) and the observed (RR). 
+
+## Updates
+This document is daily updated. Last update 17-03-2020
+
+## Authors
+Amanda Fernández Fontelo, Alejandra Cabaña, Argimiro Arratia, David Moriña and Pere Puig
