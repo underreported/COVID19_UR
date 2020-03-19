@@ -33,3 +33,5 @@ We shall base all the subsequent analysis in a model  introduced by [Fernández-
 Table 3 shows the percentages of means counts that are not covered by the official registers. Thus, the highest the rate, the lower is the coverage, and therefore the severe is the impact of the under-reporting. 
 
 (TO DO: TABLES AND FIGURES 17-03)
+
+It is instructive to see what the difference would be on epidemic spread by fitting an epidemic model to the reconstructed series of counts and the observed counts recorded by public agencies. We fit the classic SIR (Susceptible-Infectious-Recovered) model. Table 4 shows the basic reproduction rate by using the reconstructed series (RE) and the observed (RR). 
