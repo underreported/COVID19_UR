@@ -14,7 +14,118 @@ The data for the analysis have been  extracted from [eldiario.es](https://www.el
 
 <p align="justify"> Notice that this analysis con be easily reproduced for other countries. </p>
 
-(TO DO: TABLES AND FIGURES 17-03)
+<table class="table table-striped" style="width: auto !important; ">
+<caption>Table 1: Summary of the daily COVID-19 cases from 27-02-20 to 17-03-2020 by region in Spain</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;">   </th>
+   <th style="text-align:right;"> Andalucia </th>
+   <th style="text-align:right;"> Aragon </th>
+   <th style="text-align:right;"> Asturias </th>
+   <th style="text-align:right;"> Canarias </th>
+   <th style="text-align:right;"> Cantabria </th>
+   <th style="text-align:right;"> Castilla Leon </th>
+   <th style="text-align:right;"> Catalunya </th>
+   <th style="text-align:right;"> Extremadura </th>
+   <th style="text-align:right;"> Galicia </th>
+   <th style="text-align:right;"> La Rioja </th>
+   <th style="text-align:right;"> Navarra </th>
+   <th style="text-align:right;"> Pais Vasco </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> minimum </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 0.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> mean </td>
+   <td style="text-align:right;"> 34.15 </td>
+   <td style="text-align:right;"> 10.40 </td>
+   <td style="text-align:right;"> 9.65 </td>
+   <td style="text-align:right;"> 7.40 </td>
+   <td style="text-align:right;"> 2.90 </td>
+   <td style="text-align:right;"> 21.55 </td>
+   <td style="text-align:right;"> 69.70 </td>
+   <td style="text-align:right;"> 7.65 </td>
+   <td style="text-align:right;"> 14.60 </td>
+   <td style="text-align:right;"> 17.75 </td>
+   <td style="text-align:right;"> 15.65 </td>
+   <td style="text-align:right;"> 52.45 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> median </td>
+   <td style="text-align:right;"> 7.00 </td>
+   <td style="text-align:right;"> 3.50 </td>
+   <td style="text-align:right;"> 2.00 </td>
+   <td style="text-align:right;"> 4.00 </td>
+   <td style="text-align:right;"> 0.00 </td>
+   <td style="text-align:right;"> 6.50 </td>
+   <td style="text-align:right;"> 16.00 </td>
+   <td style="text-align:right;"> 1.00 </td>
+   <td style="text-align:right;"> 1.50 </td>
+   <td style="text-align:right;"> 14.00 </td>
+   <td style="text-align:right;"> 0.50 </td>
+   <td style="text-align:right;"> 23.50 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> maximum </td>
+   <td style="text-align:right;"> 168.00 </td>
+   <td style="text-align:right;"> 67.00 </td>
+   <td style="text-align:right;"> 45.00 </td>
+   <td style="text-align:right;"> 29.00 </td>
+   <td style="text-align:right;"> 20.00 </td>
+   <td style="text-align:right;"> 97.00 </td>
+   <td style="text-align:right;"> 491.00 </td>
+   <td style="text-align:right;"> 42.00 </td>
+   <td style="text-align:right;"> 80.00 </td>
+   <td style="text-align:right;"> 53.00 </td>
+   <td style="text-align:right;"> 91.00 </td>
+   <td style="text-align:right;"> 213.00 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> standard deviation </td>
+   <td style="text-align:right;"> 51.49 </td>
+   <td style="text-align:right;"> 16.47 </td>
+   <td style="text-align:right;"> 13.82 </td>
+   <td style="text-align:right;"> 8.66 </td>
+   <td style="text-align:right;"> 5.41 </td>
+   <td style="text-align:right;"> 29.84 </td>
+   <td style="text-align:right;"> 120.95 </td>
+   <td style="text-align:right;"> 12.44 </td>
+   <td style="text-align:right;"> 23.65 </td>
+   <td style="text-align:right;"> 17.80 </td>
+   <td style="text-align:right;"> 24.42 </td>
+   <td style="text-align:right;"> 67.91 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> dispersion index </td>
+   <td style="text-align:right;"> 77.63 </td>
+   <td style="text-align:right;"> 26.09 </td>
+   <td style="text-align:right;"> 19.80 </td>
+   <td style="text-align:right;"> 10.13 </td>
+   <td style="text-align:right;"> 10.09 </td>
+   <td style="text-align:right;"> 41.32 </td>
+   <td style="text-align:right;"> 209.89 </td>
+   <td style="text-align:right;"> 20.24 </td>
+   <td style="text-align:right;"> 38.32 </td>
+   <td style="text-align:right;"> 17.85 </td>
+   <td style="text-align:right;"> 38.11 </td>
+   <td style="text-align:right;"> 87.93 </td>
+  </tr>
+</tbody>
+</table>
 
 <p align="justify">  If the under-reporting is ignored, the daily counts can be appropriately modeled following: <img src="https://render.githubusercontent.com/render/math?math=exp(\alpha_0 + \alpha_1t)"> , since the number of daily COVID-19 cases overtime properly growths exponentially according to Figure 1.</p>
  
