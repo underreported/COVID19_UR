@@ -14,15 +14,22 @@ The data for the analysis have been  extracted from [eldiario.es](https://www.el
 
 <p align="justify"> Notice that this analysis con be easily reproduced for other countries. </p>
 
+(TO DO: TABLES AND FIGURES 17-03)
+
 <p align="justify">  If the under-reporting is ignored, the daily counts can be appropriately modeled following: <img src="https://render.githubusercontent.com/render/math?math=exp(\alpha_0 + \alpha_1t)"> , since the number of daily COVID-19 cases overtime properly growths exponentially according to Figure 1.</p>
  
 <p align="justify"> However, if we consider that the official number of daily cases does not reflect the total number of cases (e.g., a proportion of the cases is not observed, and thus the data are misreported), the model above does not make any sense, and therefore a more appropriate alternative should be considered. </p>
 
-We shall base all the subsequent analysis in a model  introduced by [FernÃ¡ndez-Fontelo et al. (2016)](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7026). 
+We shall base all the subsequent analysis in a model  introduced by [Fernández-Fontelo et al. (2016)](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7026). 
 
 <p align="justify"> In that model, two different processes are considered: <img src="https://render.githubusercontent.com/render/math?math=X_n">  which is the true process but unobserved (latent), and <img src="https://render.githubusercontent.com/render/math?math=Y_n">  which is observed and potentially under-reported. In this application, the latent process is assumed to be Poisson distributed with time-dependent rate, <img src="https://render.githubusercontent.com/render/math?math=\lambda_t=exp(\beta_0 + \beta_1t)"> . The observed process will always be lower or equal than the latent process (due to the under-reporting) in such a way that <img src="https://render.githubusercontent.com/render/math?math=Y_n">  will be equal than <img src="https://render.githubusercontent.com/render/math?math=X_n">  (non under-reporting) with probability <img src="https://render.githubusercontent.com/render/math?math=1-\omega">; or <img src="https://render.githubusercontent.com/render/math?math=Y_n"> is <img src="https://render.githubusercontent.com/render/math?math=q \circ X_n">  with probability <img src="https://render.githubusercontent.com/render/math?math=\omega"> . Parameters <img src="https://render.githubusercontent.com/render/math?math=\omega">  and <img src="https://render.githubusercontent.com/render/math?math=q">  quantify the overall frequency and intensity of the phenomenon, which roughly speaking describe respectively the number of times the observed counts are not equal to the real ones, and the distance between the real and observed processes. </p>
 
-(TO DO: TABLES AND FIGURES 17-03)
-
 <p align="justify"> Table 2 shows the estimates of the models parameters by region. They can be interpreted as follows quickly. For instance, for Catalunya, the overall frequency and intensity of under-reporting are roughly 0.55 and 0.37, respectively. This means that 55% of the counts throughout the period are not entirely reported and that averagely the proximity between the real and observed processes is 0.37 (being 1 when two processes are identical). </p>
 
+(TO DO: TABLES AND FIGURES 17-03)
+
+<p align="justify"> Using the Viterbi algorithm, the model also enables reconstructing the most likely sequence of real COVID-19 cases throughout the study. This allows us to have an estimated time series of truly daily cases and evaluate the impact of under-reporting over measures such as the basic reproduction number. Figure 2 shows the observed and reconstructed series over time by region. </p>
+
+Table 3 shows the percentages of means counts that are not covered by the official registers. Thus, the highest the rate, the lower is the coverage, and therefore the severe is the impact of the under-reporting. 
+
+(TO DO: TABLES AND FIGURES 17-03)
