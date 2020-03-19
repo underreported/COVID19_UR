@@ -20,11 +20,11 @@ The data for the analysis have been  extracted from [eldiario.es](https://www.el
 
 * <p align="justify"> **daily-plots** : includes daily plots describing the temporal evolution of the count per region. Also, includes daily plots proposing a likly latent sequence of counts per region. <p>
 
-* <p align="justify"> **daily-reported-data-xlsx**: time series of counts daily updated and in .xlsx format <p>
+* <p align="justify"> **daily-reported-data-xlsx** : time series of counts daily updated and in .xlsx format <p>
   
-* <p align="justify"> **daily-reconstructed-data-xlsx**: reconstructed time series of counts daily updated and in .xlsx format <p>
+* <p align="justify"> **daily-reconstructed-data-xlsx** : reconstructed time series of counts daily updated and in .xlsx format <p>
   
-* <p align="justify"> **daily-reports**: daily reports with the main results by region <p>
+* <p align="justify"> **daily-reports** : daily reports with the main results by region <p>
 
 ## Updates
 This document is daily updated. Last update 17-03-2020
