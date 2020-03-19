@@ -16,6 +16,8 @@ The data for the analysis have been  extracted from [eldiario.es](https://www.el
 
 <p align="justify"> Notice that this analysis con be easily reproduced for other countries. </p>
 
+## Folders
+
 
 ## Updates
 This document is daily updated. Last update 17-03-2020
