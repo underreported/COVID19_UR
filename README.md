@@ -14,7 +14,7 @@ The data for the analysis have been  extracted from [eldiario.es](https://www.el
 
 <p align="justify"> Notice that this analysis con be easily reproduced for other countries. </p>
 
-[Figures 1 (a)]() and [(b)]() and Table 1 provide a description and evolution of daily counts by region. 
+[Figures 1 (a)](https://github.com/underreported/COVID19_UR/blob/master/daily-plots/17-03-2020/Figure1a.pdf) and [(b)](https://github.com/underreported/COVID19_UR/blob/master/daily-plots/17-03-2020/Figure1b.pdf) and Table 1 provide a description and evolution of daily counts by region. 
 
 <table class="table table-striped" style="width: auto !important; ">
 <caption>Table 1: Summary of the daily COVID-19 cases from 27-02-20 to 17-03-2020 by region in Spain</caption>
