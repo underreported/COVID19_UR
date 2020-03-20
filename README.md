@@ -28,8 +28,8 @@ The data for the analysis have been  extracted from [eldiario.es](https://www.el
 
 ## Updates
 <p> This document is daily updated. <p>
-  <p> Last update webpage: 16-03-2020 <p>
-  <p> Last update report : 17-03-2020 <p>
+  * <p> Last update webpage: 16-03-2020 <p>
+  * <p> Last update report : 17-03-2020 <p>
 
 ## Authors
 Amanda Fernández Fontelo, Alejandra Cabaña, Argimiro Arratia, David Moriña and Pere Puig
