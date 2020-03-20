@@ -27,9 +27,9 @@ The data for the analysis have been  extracted from [eldiario.es](https://www.el
 * <p align="justify"> daily-reports: daily reports with the main results by region <p>
 
 ## Updates
-This document is daily updated. 
-  Last update webpage: 16-03-2020
-  Last update report : 17-03-2020
+<p> This document is daily updated. <p>
+  <p> Last update webpage: 16-03-2020 <p>
+  <p> Last update report : 17-03-2020 <p>
 
 ## Authors
 Amanda Fernández Fontelo, Alejandra Cabaña, Argimiro Arratia, David Moriña and Pere Puig
