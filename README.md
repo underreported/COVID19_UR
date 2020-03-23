@@ -31,7 +31,7 @@ The data for the analysis have been  extracted from [eldiario.es](https://www.el
   
   * <p> Last update webpage: 16-03-2020 <p>
   
-  * <p> Last update report : 17-03-2020 <p>
+  * <p> Last update report : 19-03-2020 <p>
 
 ## Authors
 Amanda Fernández Fontelo, Alejandra Cabaña, Argimiro Arratia, David Moriña and Pere Puig
